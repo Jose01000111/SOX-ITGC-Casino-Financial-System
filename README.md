@@ -1,5 +1,7 @@
 # 🎰 SOX ITGC Compliance — Casino Financial System
 
+<img width="725" height="440" alt="Szk2m7A" src="https://github.com/user-attachments/assets/3b224bb7-de0e-4b40-8a4b-4b91eac971f7" />
+
 ## 🚀 Project Overview
 
 As part of a **governance-driven security initiative**, I designed and implemented a **Sarbanes-Oxley (SOX) IT General Controls (ITGC) compliance project** for a simulated casino financial environment.  
