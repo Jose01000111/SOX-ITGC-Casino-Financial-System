@@ -22,6 +22,41 @@ This project demonstrates:
 **Notes:**  
 > This project bridges IT, compliance, and finance, showing the ability to translate SOX requirements into actionable technical controls. It is designed for enterprise audit readiness and demonstrates scalable compliance processes.
 
+# 🎯 SOX (Sarbanes-Oxley Act) Rundown
+
+## ✅ What SOX IS
+
+- Federal law (U.S., 2002) enacted to protect investors and improve financial reporting integrity.  
+- Focuses on corporate financial reporting: accuracy, completeness, and accountability.  
+- Mandates internal controls (ICFR) over financial data.  
+- Requires executive certification: CEO/CFO must attest that financial statements are accurate (Section 302).  
+- ITGC relevance: IT systems supporting financial reporting must have controls, logging, access management, and change management.  
+- Auditability: All financial systems must support traceable audit logs.  
+- Compliance documentation: Policies, procedures, and training manuals are required to show governance readiness.  
+
+## ❌ What SOX IS NOT
+
+- Not a cybersecurity-only law — it’s about financial reporting, not IT security per se.  
+- Not a privacy or data protection law — doesn’t regulate PII or HIPAA directly.  
+- Not a tax law — it doesn’t define taxes or filing rules.  
+- Not optional for publicly traded companies — noncompliance carries fines and penalties.  
+- Not a prescriptive technology standard — it defines outcomes, not specific tools.  
+
+---
+
+# 📊 Similar Financial & GRC Frameworks Comparison
+
+| Act / Framework | Jurisdiction / Scope | Focus Area | Key Difference from SOX | Relation to IT / GRC |
+|-----------------|-------------------|-----------|------------------------|--------------------|
+| **SOX (Sarbanes-Oxley)** | U.S. Public Companies | Financial reporting, internal controls | Federal law; mandates executive certification & internal control audits | ITGCs, access controls, logging, change mgmt |
+| **PCI DSS** | Global (Payment Card Industry) | Cardholder data security | Industry standard, not law | IT security controls for payment systems, encryption, logging |
+| **COSO Framework** | Global | Enterprise risk management | Guidance framework, not law | Used to design ICFR for financial systems; complements SOX |
+| **NIST CSF** | U.S. / voluntary | Cybersecurity risk management | Broader IT risk focus, not finance-specific | Helps implement IT controls relevant to SOX systems |
+| **HIPAA** | U.S. Healthcare | Protected health information | Privacy/security of health data, not financial reporting | Limited IT security overlap if financial systems also store PHI |
+| **FISMA** | U.S. Federal Agencies | Federal IT security | Governs federal agency IT, not corporate finance | Overlaps in ITGCs, but not for private companies |
+
+
+
 ---
 
 ## 📂 Included Artifacts
